@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PitestReporter.iml" filepath="$PROJECT_DIR$/PitestReporter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jp.co.panpanini.pitestreporter.main.iml" filepath="$PROJECT_DIR$/.idea/modules/jp.co.panpanini.pitestreporter.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jp.co.panpanini.pitestreporter.test.iml" filepath="$PROJECT_DIR$/.idea/modules/jp.co.panpanini.pitestreporter.test.iml" />
+    </modules>
+  </component>
+</project>
