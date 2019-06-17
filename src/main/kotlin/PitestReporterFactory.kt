@@ -8,7 +8,7 @@ import java.util.*
 class PitestReporterFactory : MutationResultListenerFactory {
     override fun description(): String = "panini pitest reporter"
 
-    override fun name(): String = "panini-pitest"
+    override fun name(): String = "panini"
 
     override fun getListener(props: Properties?, args: ListenerArguments?): MutationResultListener = PitestReporter()
 }
